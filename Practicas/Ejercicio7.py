@@ -1,0 +1,1 @@
+#Leer x cantidad de edades y mostrar el promedio de dichas edades.
